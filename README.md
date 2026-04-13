@@ -83,7 +83,8 @@ Across multiple independent runs:
 * high factor convergence
 * consistent mechanisms
 * reproducible results
-
+  
+Additional cases are continuously being analyzed.
 ---
 
 ## 🔓 Accessibility
@@ -133,7 +134,7 @@ It provides:
 
 ## 👤 Author
 
-[Your Name]
+Maksym Sultanov
 
 ---
 
