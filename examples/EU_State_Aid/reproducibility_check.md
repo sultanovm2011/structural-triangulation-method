@@ -1,4 +1,4 @@
-# Reproducibility Check
+# Reproducibility
 
 ## Objective
 
@@ -6,98 +6,73 @@ To verify whether the mechanism identified by the Structural Triangulation Metho
 
 ---
 
-## Run 1
+## Experimental Setup
 
-* Aggregation: mixed (STRONG + GOOD models)
-* Result: clustered factor ranges
+The STM analysis was conducted across multiple independent runs with varying conditions:
 
-### Mechanism:
+* different languages (Russian / English)
+* different framework configurations (full and simplified)
+* different model compositions and aggregation strategies
+
+Each run used the same underlying regulatory system but varied the analytical environment.
+
+---
+
+## Result
+
+Across all runs, the same core mechanism was consistently identified:
 
 ```text
-complexity → discretion → information asymmetry → selectivity
+complexity → interpretation/discretion → information control → selectivity → concentration of benefits
 ```
 
 ---
 
-## Run 2
+## Structural Refinement
 
-* Aggregation: STRONG-only filtering
-* Result: fixed factor values
+While the core mechanism remained unchanged, later runs revealed additional structural detail:
 
-### Mechanism:
+* identification of a key structural node:
+  **the “notify / not notify” decision point (GBER / self-assessment)**
 
-```text
-complexity → discretion → information asymmetry → selectivity → concentration of benefits
-```
+* localization of the mechanism at the **pre-notification stage**
 
----
+* explicit formation of a **weak-control zone prior to Commission scrutiny**
 
-## Comparison
-
-* Core structure is identical across runs
-* The second run extends the mechanism without altering its core logic
-* Feedback loop is present in both cases
+These additions extend the mechanism without altering its structure.
 
 ---
 
-## Factor Comparison
+## Robustness
 
-| Factor                   | Run 1 | Run 2 |
-| ------------------------ | ----- | ----- |
-| F1 (Discretion)          | ~6.5  | 7     |
-| F2 (Incentives)          | ~6.2  | 6     |
-| F3 (Concentration)       | ~6.7  | 7     |
-| F4 (Access Points)       | ~6.7  | 7     |
-| F5 (Enforcement Gap)     | ~4    | 4     |
-| F6 (Transparency)        | ~5.3  | 5     |
-| F7 (Information Control) | ~5.8  | 6     |
-| F8 (Complexity)          | ~7.8  | 8     |
-| F9 (Selectivity)         | ~5.7  | 6     |
-| F10 (Structural Risk)    | ~6.5  | 7     |
-| F11 (Sanctions)          | ~3.5  | 3     |
+The mechanism remained stable despite variations in:
+
+* analytical framework completeness
+* language of execution
+* model selection and weighting
+
+Quantitative differences in factor values (≤ ±1) did not affect the resulting structure.
 
 ---
 
-## Observations
+## Key Observation
 
-* Factor values show minor variation (≤ ±1)
-* No structural divergence is observed
-* The mechanism remains stable despite quantitative differences
+Structural convergence was achieved across independent runs.
 
----
+This indicates that STM captures:
 
-## Interpretation
-
-Variations in:
-
-* model composition
-* aggregation strategy
-* factor precision
-
-do **not affect the resulting mechanism**.
-
-The second run provides a more explicit representation by adding the final stage:
-
-```text
-concentration of benefits
-```
-
-This addition extends the mechanism but does not change its structural foundation.
-
----
-
-## Key Result
-
-Structural convergence is preserved despite quantitative variation.
+> stable system-level mechanisms rather than model-specific outputs
 
 ---
 
 ## Conclusion
 
-The STM mechanism is **reproducible across independent runs**.
+The EU State Aid mechanism identified by STM is:
 
-This indicates that STM captures:
+* reproducible
+* structurally stable
+* progressively refinable
 
-> stable structural properties of the system rather than model-specific outputs
+Further runs are unlikely to change the mechanism, but may add minor detail.
 
 ---
