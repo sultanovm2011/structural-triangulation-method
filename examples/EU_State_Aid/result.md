@@ -36,12 +36,35 @@ complexity → discretion → information asymmetry → selectivity → concentr
 
 ---
 
+## Structural Localization
+
+Further STM runs revealed that the mechanism operates primarily at the **pre-notification stage** of the system.
+
+In particular, the critical structural node is:
+
+```text
+notify / not notify (GBER / self-assessment)
+```
+
+At this stage:
+
+* control shifts from the European Commission to the Member State
+* information asymmetry increases
+* external verification is reduced
+
+This creates a **localized weak-control zone** prior to formal Commission scrutiny.
+
+---
+
 ## Interpretation
 
 * High system complexity increases reliance on interpretation
-* Interpretation introduces discretion in decision-making
-* Decision-making depends on information provided by interested actors
-* This creates conditions for selective application
+* Interpretation introduces discretion in classification of aid
+* Control over classification shifts to the notifying authority (Member State)
+* The key decision point is whether a measure is **notified or self-assessed under GBER**
+* If not notified, Commission scrutiny is bypassed
+* This creates a localized weak-control zone
+* Within this zone, selective application occurs
 * Benefits tend to concentrate among specific actors
 
 ---
@@ -58,11 +81,17 @@ selectivity → reinforces system complexity → increases initial conditions
 
 ## Conclusion
 
-The EU State Aid system operates as a **complex, centrally evaluated structure**, where:
+The EU State Aid system operates as a **complex, centrally controlled structure with a decentralized pre-control phase**.
 
-* control is present
-* but outcomes depend on interpretation and information
+* formal enforcement and oversight by the European Commission are strong
+* however, a critical part of the system operates **before Commission involvement**
 
-STM identifies this as a structural configuration that enables **selective outcomes under high complexity**.
+The primary structural risk does not arise at the decision stage, but at the **classification stage**, where:
+
+* control is decentralized
+* information is asymmetrically distributed
+* verification is limited
+
+STM identifies this configuration as enabling **selective outcomes within a structurally protected pre-notification zone**.
 
 ---
