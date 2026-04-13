@@ -14,12 +14,25 @@ complexity → discretion → information asymmetry → selectivity → concentr
 
 ---
 
+## Structural Refinement
+
+Further STM analysis identified a critical structural node:
+
+```text
+notify / not notify (GBER / self-assessment)
+```
+
+This node determines whether a case enters formal European Commission scrutiny or remains within a decentralized evaluation process.
+
+---
+
 ## Case 1: Germany — Renewable Energy Support
 
 * Complex regulatory scheme → ✔
 * Commission evaluation (non-automatic) → ✔
 * Data provided by the state → ✔
 * Selective benefits to specific industries → ✔
+* Variation in depth of external scrutiny → ✔
 
 ---
 
@@ -46,8 +59,29 @@ complexity → discretion → information asymmetry → selectivity → concentr
 Across all cases:
 
 * the same structural pattern is observed
-* the mechanism operates consistently
-* variations in context do not change the underlying logic
+* decision-making depends on information provided by Member States
+* interpretation and discretion are present
+* selective outcomes are observed
+* benefits tend to concentrate
+
+Additionally:
+
+* the depth of external scrutiny varies
+* not all measures undergo the same level of Commission review
+
+---
+
+## GBER / Pre-Notification Observation
+
+The General Block Exemption Regulation (GBER) enables Member States to implement certain aid measures without prior notification.
+
+This creates a structural condition where:
+
+* classification is performed by the Member State
+* external verification is reduced
+* Commission scrutiny may be bypassed
+
+This corresponds to a **pre-notification zone of weaker control**, consistent with the STM mechanism.
 
 ---
 
@@ -57,9 +91,13 @@ The mechanism identified by STM is:
 
 * reproducible across model-based analysis
 * observable in real-world decisions
+* consistent across different sectors and jurisdictions
 
-This suggests that STM captures:
+The analysis indicates that:
 
-> system-level structural behavior rather than isolated cases
+* formal control at the Commission level is strong
+* however, part of the mechanism operates **before formal oversight begins**
+
+STM captures this as a structural configuration enabling **selective outcomes within a differentiated control environment**.
 
 ---
