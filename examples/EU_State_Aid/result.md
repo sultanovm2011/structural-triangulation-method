@@ -4,7 +4,7 @@
 
 This document presents the structural result obtained using the Structural Triangulation Method (STM) applied to the EU State Aid regulatory system.
 
-The result is based on multiple independent model analyses aggregated through STM.
+The result is derived from structural convergence across multiple independent runs.
 
 ---
 
@@ -22,37 +22,32 @@ The result is based on multiple independent model analyses aggregated through ST
 | Complexity (F8)                  | 8     |
 | Selectivity (F9)                 | 6     |
 | Structural Risk (F10)            | 7     |
-| Sanctions (F11)                  | 3     |
+| Sanctions (F11)                  | 4     |
 
 ---
 
 ## Core Mechanism
 
-The STM analysis consistently identified the following mechanism:
+The STM analysis consistently identifies the following mechanism:
 
-```text
+```text id="p9t2fd"
 complexity → discretion → information asymmetry → selectivity → concentration of benefits
 ```
 
 ---
 
-## Structural Localization
+## Structural Characteristics
 
-Further STM runs revealed that the mechanism operates primarily at the **pre-notification stage** of the system.
+The mechanism includes the following structural components:
 
-In particular, the critical structural node is:
+* a key structural node:
+  **the “notify / not notify” decision point (GBER / self-assessment)**
 
-```text
-notify / not notify (GBER / self-assessment)
-```
+* localization of the mechanism at the **pre-notification stage**
 
-At this stage:
+* formation of a **weak-control zone prior to Commission scrutiny**
 
-* control shifts from the European Commission to the Member State
-* information asymmetry increases
-* external verification is reduced
-
-This creates a **localized weak-control zone** prior to formal Commission scrutiny.
+These elements are inherent to the system structure and do not alter the core mechanism.
 
 ---
 
@@ -73,7 +68,7 @@ This creates a **localized weak-control zone** prior to formal Commission scruti
 
 The system exhibits a **partial feedback loop**:
 
-```text
+```text id="x8w3ml"
 selectivity → reinforces system complexity → increases initial conditions
 ```
 
@@ -86,7 +81,7 @@ The EU State Aid system operates as a **complex, centrally controlled structure 
 * formal enforcement and oversight by the European Commission are strong
 * however, a critical part of the system operates **before Commission involvement**
 
-The primary structural risk does not arise at the decision stage, but at the **classification stage**, where:
+The primary structural risk arises at the **classification stage**, where:
 
 * control is decentralized
 * information is asymmetrically distributed
