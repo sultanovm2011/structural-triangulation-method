@@ -13,16 +13,16 @@ The result is derived from structural convergence across three independent runs.
 | Factor                           | Value |
 | -------------------------------- | ----- |
 | Discretion (F1)                  | 6     |
-| Incentives (F2)                  | 6     |
+| Incentives (F2)                  | 7     |
 | Concentration of Benefits (F3)   | 5     |
-| Access Points / Bottlenecks (F4) | 5.5   |
+| Access Points / Bottlenecks (F4) | 6     |
 | Enforcement Gap (F5)             | 5     |
-| Transparency (F6)                | 4.5   |
+| Transparency (F6)                | 5     |
 | Information Control (F7)         | 7     |
 | Complexity (F8)                  | 7     |
 | Selectivity (F9)                 | 5     |
-| Structural Risk (F10)            | 6     |
-| Sanctions (F11)                  | 5     |
+| Structural Risk (F10)            | 7     |
+| Sanctions (F11)                  | 4     |
 
 ---
 
@@ -88,6 +88,3 @@ The primary structural risk arises at the **internal compliance and reporting st
 * incentives favor formal compliance representation
 
 STM identifies this configuration as enabling **systematic divergence between reported and actual compliance within a structurally stable framework**.
-
----
-
