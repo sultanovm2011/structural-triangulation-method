@@ -1,34 +1,32 @@
-# LkSG — STM Result
+# Result
 
 ## Overview
 
-This document presents the structural result obtained using the Structural Triangulation Method (STM) applied to the German Supply Chain Due Diligence Act (LkSG).
+The analysis identifies a stable structural mechanism underlying the operation of the LkSG system.
 
-The result is derived from structural convergence across three independent runs.
+The mechanism is consistently reproduced across independent runs and reflects system-level behavior rather than isolated cases.
 
 ---
 
 ## Aggregated Factors
 
-| Factor                           | Value |
-| -------------------------------- | ----- |
-| Discretion (F1)                  | 6     |
-| Incentives (F2)                  | 7     |
-| Concentration of Benefits (F3)   | 5     |
-| Access Points / Bottlenecks (F4) | 6     |
-| Enforcement Gap (F5)             | 5     |
-| Transparency (F6)                | 5     |
-| Information Control (F7)         | 7     |
-| Complexity (F8)                  | 7     |
-| Selectivity (F9)                 | 5     |
-| Structural Risk (F10)            | 7     |
-| Sanctions (F11)                  | 4     |
+| Factor                   | Value |
+| ------------------------ | ----- |
+| F1 (Discretion)          | 6     |
+| F2 (Incentives)          | 7     |
+| F3 (Concentration)       | 5     |
+| F4 (Access Points)       | 6     |
+| F5 (Enforcement Gap)     | 5     |
+| F6 (Transparency)        | 5     |
+| F7 (Information Control) | 7     |
+| F8 (Complexity)          | 7     |
+| F9 (Selectivity)         | 5     |
+| F10 (Structural Risk)    | 7     |
+| F11 (Sanctions)          | 4     |
 
 ---
 
 ## Core Mechanism
-
-The STM analysis consistently identifies the following mechanism:
 
 ```text
 complexity → interpretability → self-reporting → information control → limited verification → compliance optimization
@@ -38,53 +36,60 @@ complexity → interpretability → self-reporting → information control → l
 
 ## Structural Characteristics
 
-The mechanism includes the following structural components:
+The mechanism is structurally defined by:
 
-* a key structural node:
-  **self-assessment of "appropriateness" (risk-based due diligence)**
+* internal definition of compliance through **self-assessment ("appropriateness")**
+* concentration of information within regulated entities
+* formation of a **limited-verification zone** between reporting and enforcement
 
-* localization of the mechanism at the **internal compliance stage**
+The system operates primarily within internal compliance processes rather than external enforcement actions.
 
-* formation of a **limited-verification zone between reporting and enforcement**
+---
 
-These elements are inherent to the system structure and do not alter the core mechanism.
+## Feedback Loop
+
+```text
+compliance optimization → limited detection → reinforcement of self-reporting → increased information control
+```
+
+This loop reinforces the core mechanism by stabilizing internal reporting strategies and limiting external visibility.
 
 ---
 
 ## Interpretation
 
-* High regulatory complexity increases reliance on interpretation
-* The "appropriateness" standard introduces internal discretion
-* Control over risk assessment and reporting shifts to companies
-* Companies produce and structure compliance information
-* External verification is limited relative to system scope
-* Detection probability remains constrained
-* This creates incentives for optimization of reported compliance
-* The system tends toward formal rather than substantive compliance
+The system demonstrates:
+
+* high **information control** (F7) as a central structural factor
+* strong **incentive alignment** toward compliance optimization (F2)
+* significant **complexity** (F8) enabling interpretability
+* a persistent **enforcement gap** (F5)
+* moderate **transparency and selectivity** (F6, F9)
+
+These factors jointly sustain a system where compliance is internally defined and externally constrained.
 
 ---
 
 ## System Type
 
-The system exhibits a **feedback loop**:
+The system is characterized as:
 
-```text
-compliance optimization → low detection → reinforcement of reporting strategies
-```
+**a structurally stable, information-controlled compliance system with a reinforcing feedback loop**
 
 ---
 
 ## Conclusion
 
-The LkSG operates as an **information-controlled compliance system with decentralized data production and limited external verification**.
+The LkSG system operates as a **self-reporting-based regulatory structure**, where:
 
-* formal enforcement mechanisms are present
-* however, core system operation depends on company-generated information
+* regulated entities control the production of compliance information
+* external verification is limited relative to system complexity
+* detection probability remains constrained
 
-The primary structural risk arises at the **internal compliance and reporting stage**, where:
+This creates a structural condition in which:
 
-* information is controlled by the regulated entity
-* verification capacity is limited
-* incentives favor formal compliance representation
+**formal compliance and actual outcomes may diverge**
 
-STM identifies this configuration as enabling **systematic divergence between reported and actual compliance within a structurally stable framework**.
+The identified mechanism is stable, reproducible, and consistent with observed system behavior.
+
+---
