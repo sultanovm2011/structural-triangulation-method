@@ -4,6 +4,8 @@
 
 To validate whether the mechanism identified by STM is observable in real-world cases.
 
+The cases represent observed compliance practices in companies operating under LkSG requirements.
+
 ---
 
 ## STM Mechanism
